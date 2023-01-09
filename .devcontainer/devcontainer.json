@@ -1,0 +1,18 @@
+{
+    "name": "First CakePHP4 Project",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/var/www",
+    "extensions": [
+      "xdebug.php-debug",
+      "bmewburn.vscode-intelephense-client",
+      "Djbrown184.cakephp-4-snippets",
+      "ecmel.vscode-html-css",
+      "oderwat.indent-rainbow",
+      "mosapride.zenkaku"
+
+    ],
+    "settings": {
+      "editor.tabSize": 2
+    }
+  }
